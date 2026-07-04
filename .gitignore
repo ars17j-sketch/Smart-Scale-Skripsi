@@ -1,0 +1,20 @@
+# Arduino IDE
+*.ino.eep
+*.ino.bin
+*.ino.with_bootloader.bin
+*.elf
+
+# Build
+/build/
+/.pio/
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets
+secrets.h
+wifi_secrets.h
